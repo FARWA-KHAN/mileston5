@@ -1,0 +1,44 @@
+body{
+    background-image: url(https://i.pinimg.com/736x/3b/12/94/3b1294cd0ce421ce1b25bc879b91f550.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+   
+}
+form{
+    max-width: 600px;
+    margin: auto;
+    border-radius: 8px;
+   border-width: 5px 5px 5px 5px;
+   
+  
+}
+legend{
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+label{
+    display: block;
+}
+button{
+    display: block;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(178, 203, 204);
+}
+#resumeOutput{
+    max-width: 552px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 8px;
+    border: 2px solid;
+    border-color: rgba(0, 0, 0, 0.418);
+
+}
+#resumeOutput h2{
+    color: rgb(0, 0, 0);
+}
